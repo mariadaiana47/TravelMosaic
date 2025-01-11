@@ -1,5 +1,5 @@
   TravelMosaic is an interactive web application designed to help users plan, organize, and manage travel itineraries. The platform provides tools for selecting destinations, calculating costs, personalized recommendations, and collaboration between users.
-    Features
+    Features:
 
 - **Destination Selection**: Browse and choose destinations tailored to your preferences.
 - **Cost Calculation**: Automatically estimate travel expenses based on your choices.
